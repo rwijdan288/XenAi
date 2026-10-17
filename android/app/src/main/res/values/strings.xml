@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Xen AI Floating Bot</string>
+    <string name="channel_id_floating">xen_floating_channel</string>
+    <string name="channel_name_floating">Layanan Floating Xen AI</string>
+    <string name="channel_desc_floating">Menampilkan notifikasi aktif untuk floating bubble Xen AI</string>
+    <string name="channel_id_capture">xen_capture_channel</string>
+    <string name="channel_name_capture">Layanan Tangkapan Layar Xen AI</string>
+    <string name="channel_desc_capture">Izin MediaProjection untuk analisis visual layar</string>
+</resources>
